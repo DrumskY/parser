@@ -1,0 +1,10 @@
+begin
+
+Text text
+Scalar scalar
+Number number
+Seal seal
+
+show text
+
+end
